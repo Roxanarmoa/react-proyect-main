@@ -1,0 +1,13 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+}.form button {
+    margin-top: 35px;
+    color: aliceblue;
+    border-style: none;
+    text-decoration: none;
+    background-color:rgba(128, 0, 0, 0.774);
+    border-radius: 15px;
+    padding: 15px;
+}

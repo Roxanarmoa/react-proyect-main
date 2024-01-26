@@ -1,0 +1,56 @@
+
+.carrito-vacio{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 150px;
+}.volver{
+    color: aliceblue;
+    text-decoration: none;
+    background-color:rgba(128, 0, 0, 0.795);
+    border-radius: 15px;
+    padding: 15px;
+}
+
+
+
+
+
+.article{
+    display: flex;
+    width: 40%;
+    font-weight: bold;
+}
+
+
+.article-products{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    border-style: groove;
+}.article-products img{
+    width: 80%;
+}.article-products button {
+    color: aliceblue;
+    text-decoration: none;
+    border-style: none;
+    background-color:rgba(128, 0, 0, 0.795);
+    border-radius: 15px;
+    padding: 12px;
+}
+
+
+
+.total{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    width: 40%;
+}.total button, h4{
+    color: aliceblue;
+    border-style: none;
+    background-color:rgba(128, 0, 0, 0.712);
+    border-radius: 15px;
+    padding: 12px;
+}

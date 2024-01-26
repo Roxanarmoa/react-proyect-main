@@ -1,0 +1,56 @@
+/* main */
+.box-main{
+    .Backimg{
+        max-width: 100%;
+    }    
+    background-color: #000000;
+}
+.first-title{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    color: rgba(255, 255, 255, 0.74);
+}
+.second-title{
+    display: flex;
+    justify-content: center;
+    color: rgba(255, 255, 255, 0.404);
+}
+
+/* boton  */
+.btn{
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+.btn-catalogo{
+    position: absolute;
+    top: 100px;
+    left: 820px;
+    background-color: rgb(69, 77, 83);
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 25px;
+    border-style: none;
+    padding: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 30px;
+    
+}
+.btn-catalogo:hover{
+    border-style: none;
+    color: aliceblue;
+    transition: 0.3s;
+    background-color: rgba(128, 0, 0, 0.753);
+}
+
+
+/* articles */
+.article-content{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+    padding-bottom: 350px;
+}

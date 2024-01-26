@@ -1,0 +1,21 @@
+
+.controls{
+    gap: 10px;
+    display: flex;
+    font-size: 14px;
+}.controls button{
+    height: 40px;
+    padding: 10px;
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.74);
+    border-style: none;
+    border-radius: 5px;
+}
+
+.agregarAlCarrito{
+    padding: 10px;
+    border-radius: 5px;
+    border-style: none;
+    color: aliceblue;
+    background-color: rgba(128, 0, 0, 0.747);
+}

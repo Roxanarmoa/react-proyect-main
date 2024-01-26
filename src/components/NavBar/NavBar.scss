@@ -1,0 +1,49 @@
+
+/* Nav bar */
+#navbar{
+    font-size: 20px;
+    font-weight: 700;
+    background-color: white;
+
+    
+    #cartwidget img{
+        width: 40px;
+        position: absolute;
+        right: 10px;
+    }
+    #cartwidget p{
+        font-size: 17px;
+        width: 23px;
+        position: absolute;
+        top: 26px;
+        right: 8px;
+    }
+}
+ul, ol, li {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    margin-right: 57px;
+}
+
+.nav-brand{
+    width:80px;
+    position: absolute;
+    top: 26px;
+    left: 10px;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: dimgray;
+}
+.nav-link:hover{
+    color: firebrick;
+}
+
+
+/* cart */
+
+
+/**/

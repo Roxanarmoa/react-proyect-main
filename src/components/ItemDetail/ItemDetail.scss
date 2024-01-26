@@ -1,0 +1,25 @@
+.product-detail{
+    display: flex;
+    width: 50%;
+    margin-inline: 500px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+.description{
+    font-weight: normal;
+    
+}
+
+.terminar-compra {
+    border-radius: 10px;
+    background-color:rgba(128, 0, 0, 0.705);
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    padding: 10px;
+}.compra{
+    color: aliceblue;
+    text-decoration: none;
+}
